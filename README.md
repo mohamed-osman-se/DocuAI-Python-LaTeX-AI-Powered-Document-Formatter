@@ -1,4 +1,4 @@
-# AI-Assisted Document Formatter
+# DocuAI (Python + LaTeX) – AI-Powered Document Formatter
 
 This Python API will allow you to transform plain text into professionally formatted PDFs using AI and LaTeX. The project is **currently in development** and coming soon! 🚀
 
